@@ -1,0 +1,13 @@
+node_modules/
+/test-result/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+/browserstack.err
+/local.log
+/log
+/tests/*/*.png
+/tests/*.png
+jsonreports/*.json
+cucumber-report.json
+cucumber-report.html
